@@ -9,6 +9,9 @@ background-color: black;
     "E F D"
 }
 .grid-item-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     grid-area: A;
     background-color: #2573d9;
 }
