@@ -3,5 +3,20 @@
     grid-template-columns: 200px 100px;
 }
 .grid-item-1{
-    background-color: blue;
+    background-color: #2573d9;
+}
+.grid-item-2{
+    background-color: #5DBF17;
+}
+.grid-item-3{
+    background-color: #F29F05;
+}
+.grid-item-4{
+    background-color: #f21905;
+}
+.grid-item-5{
+    background-color: #A33FBF;
+}
+.grid-item-6{
+    background-color: #3d90d9;
 }
