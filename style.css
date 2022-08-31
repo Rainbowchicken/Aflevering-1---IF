@@ -8,6 +8,7 @@ background-color: black;
     "C C D"
     "E F D"
 }
+/* Under grid-container har vi kodet så boksene fylder de rigtige størrelser på skærmen og kodet så de ligger med et hvis mellemrum fra hinanden. Mellemrummene har vi også farvet sort. Vi har også fået boksene til at ligge nogle bestemte steder på skærmen, ved fx. at give gridsene koden B B (boks 2). */
 .grid-item-1{
     display: flex;
     align-items: center;
