@@ -16,22 +16,37 @@ background-color: black;
     background-color: #2573d9;
 }
 .grid-item-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     grid-area: B;
     background-color: #5DBF17;
 }
 .grid-item-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     grid-area: C;
     background-color: #F29F05;
 }
 .grid-item-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     grid-area: D;
     background-color: #f21905;
 }
 .grid-item-5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     grid-area: E;
     background-color: #A33FBF;
 }
 .grid-item-6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     grid-area: F;
     background-color: #3d90d9;
 }
