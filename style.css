@@ -13,6 +13,7 @@ background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
+    /* Vi har centreret teksten i griden ved at bruge de 3 kodestykker oven for (display, align-items og justify-content). Dette gælder også for de andre grids. */
     grid-area: A;
     background-color: #2573d9;
 }
